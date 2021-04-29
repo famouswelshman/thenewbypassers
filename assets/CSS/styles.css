@@ -1,0 +1,373 @@
+
+/*------------------ GOOGLE FONT LINKS ------------------------*/
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Open+Sans:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
+/*These styles apply to the whole of the website */
+
+body {
+    margin: 0 50px 0 50px;
+    background-color: white;
+}
+
+/* --------------------- Global text Styles ---------------------------*/
+
+h1 {
+    color: #cc0033;
+    font-family: "monoton", Arial, Helvetica, sans-serif;
+}
+
+h2 {
+    color: #cc0033;
+}
+p{
+    font-family: 'Montserrat', sans-serif;
+    color: grey;
+    font-size: 14px;
+}
+.p-left {
+    font-family: 'Montserrat', sans-serif;
+    text-align: left;
+}
+.p-right {
+
+}
+
+h1,
+h2,
+h3, {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.title {
+    font-family: "monoton", Arial, Helvetica, sans-serif;
+    position: relative;
+    top: -600px;
+    left: 120px;
+    color: #cc0033;
+    font-size: 85px;
+    transition-duration: 3s;
+    word-spacing: 20px;
+}
+
+/* --------------------------- NAVBAR -----------------------------*/
+
+/*changes the logo (top left) */
+.navbar-brand img {
+    width: 50%;
+    height: auto;
+    margin-left: 5px;
+}
+
+/*changes the top-right menu links */
+nav ul {
+    font-size: 25px;
+    letter-spacing: 10px;
+    color: slategray;
+}
+
+nav li {
+    letter-spacing: 5px;
+    padding: 6px;
+}
+
+nav li:hover {
+    border-bottom: 1px solid;
+}
+/* ------------------------ COMPONENTS ------------------------------------*/
+.button {
+    position: absolute;
+    top: 800px;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    text-align: center;
+}
+.button a  {
+    color: white;
+    text-decoration: none;
+    font-family: "poppins", Arial, Helvetica, sans-serif;  
+}   
+
+.row-sm {
+    position: relative;
+}   
+.media-videos {
+    padding: 10px 0px 0px 0px;
+    display: inline;
+}
+/* ------------------------- HEADER -----------------------------------------------*/
+header {
+    font-family: "poppins", Arial, Helvetica, sans-serif;
+}
+.header-left {
+    text-align: left;
+}
+.header-right {
+    text-align: right;
+
+}
+/* ------------------------ MAIN SECTION ----------------------------------*/
+
+main {
+
+}
+
+article {
+
+}
+ul {
+    list-style-type: none;
+}
+
+.ul-right {
+    font-family: "Satisfy", Arial, Helvetica, sans-serif;
+    text-align: right;
+    font-size: 22px;
+}
+.ul-right i {
+    padding: 10px;
+}
+.ul-left {
+
+}
+li {
+    list-style-type: none;
+}
+/*-------------------------- FOOTER ----------------------------------------*/
+
+footer {
+    padding-top: 20px;
+    letter-spacing: 2px;
+    text-align: center;
+    bottom: 10;
+    position: relative;
+    width:100%;
+}
+
+.social-links {
+    padding: 15px;
+    text-align: center;
+}
+
+.social-links li {
+    display: inline;
+    text-align: justify;
+}
+ /* -------------------------------------------------------------------------*/
+ /* ------------------------ GRID ELEMENTS -----------------------------------*/
+
+ .container {
+    width: 100vvw;
+    height: 100vh;
+
+    font-family: 'Advent Pro', sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+
+    display: grid;
+
+
+    grid-template: 100px 1fr 1fr 100px / repeat(3, 2fr);
+    gap: 10px;
+    padding: 10px;
+    box-sizing: border-box; 
+}
+[class*="col"] {
+    padding: 1rem;
+    border: 1px solid black;
+}
+[class*="con"] {
+    border: none;
+    border: 1px solid black;
+}
+.content-large {
+    padding: 0 0 35px 0;
+    grid-row-start: 2;
+    grid-row-end: span 1;
+    grid-column-start: 1;
+    grid-column-end: 4;
+    flex: auto;
+}
+
+.content-small {
+    grid-row: 3;
+    grid-row-start: 3;
+    grid-row-end: span 1;
+    flex: auto;
+    text-align: right;
+}
+
+.content-medium {
+    grid-row-start: 3;
+    grid-row-end: 3;
+    grid-column-start: 1;
+    grid-column-end: 3;
+    flex: auto;
+}
+
+#page-container {
+    position: relative;
+    min-height: 120vh;
+}
+
+#content-wrap {
+    padding-bottom: 2.5rem;    /* Footer height */
+    color: white;
+    position: sticky;
+}
+
+.covers {
+    display: inline;
+}
+/*-------------------------- MEDIA SIZES ---------------------------------------------*/
+
+/*------ LAPTOP SIZE ------------*/
+@media all and (max-width: 1024px) {
+
+footer {
+    position: relative;
+    bottom: 0;
+    text-align: center;
+    padding: 200px;
+}
+main {
+    text-align: center;
+}
+.title {
+    font-family: "monoton", Arial, Helvetica, sans-serif;
+    position: absolute;
+    color: #cc0033;
+    top: 310px;
+    left: 120px;
+    font-size: 65px;
+    transition-duration: 3s;
+    word-spacing: 5px;
+}
+.navbar-brand img {
+    width: 30%;
+    height: auto;
+    margin-left: 5px;
+}
+.button {
+    position: absolute;
+    top: 700px;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+.social-links {
+    padding: 15px;
+    text-align: center;
+}
+
+.social-links li {
+    display: inline;
+    text-align: justify;
+}
+}
+/*------ TABLET SIZE ------------*/
+@media all and (max-width: 768px) {
+footer {
+    position: relative;
+    bottom: 0;
+    text-align: center;
+    padding: 100px;
+}
+main {
+        text-align: center;
+}
+.title {
+    font-family: monoton;
+    position: relative;
+    color: #cc0033;
+    top: 10px;
+    left: auto;
+    font-size: 55px;
+    transition-duration: 3s;
+    word-spacing: 5px;
+}
+.navbar-brand img {
+    width: 40%;
+    height: auto;
+    margin-left: 5px;
+}
+.button {
+    position: relative;
+    top: 150px;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+.social-links {
+    padding: 15px;
+    text-align: center;
+}
+.social-links li {
+    display: inline;
+    text-align: justify;
+}
+.text-muted {
+    font-size: 12px;
+    padding: 25px;
+}
+}
+
+/*------ MOBILE HANDSET SIZE ------------*/
+@media all and (max-width: 425px) {
+footer {
+    position: relative;
+    text-align: center;
+}
+body {
+    text-align: center;
+}
+h1,
+h2  {
+    text-align: center;
+}
+main {
+    text-align: center;
+}
+.title {
+    font-family: "monoton", Arial, Helvetica, sans-serif;
+    color: #cc0033;;
+    left: auto;
+    top: -30px;
+    font-size: 35px;
+    transition-duration: 3s;
+    word-spacing: 5px;
+    position: relative;
+    text-align: center;
+}
+.navbar-brand img {
+    width: 30%;
+    height: auto;
+    margin-left: 5px;
+}
+.button {
+    position: relative;
+    top: 150px;
+}
+.social-links {
+    display: inline-flex;
+    text-align: center;
+}
+    
+.social-links li {
+    display: inline;
+    text-align: center;
+}
+
+.text-muted {
+    font-size: 10px;
+    padding: 0px;
+}
+.header-right,
+.header-left {
+    text-align: center;
+}
+.p-left {
+    text-align: justify;
+}
+}
