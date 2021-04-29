@@ -218,9 +218,6 @@ footer {
 }
 
 .covers {
-    display: inline;
-}
-.col-sm ul {
     text-align: center;
 }
 /*-------------------------- MEDIA SIZES ---------------------------------------------*/
