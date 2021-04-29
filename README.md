@@ -1,4 +1,4 @@
-# thenewbypassers # - Cover Band Website
+# thenewbypassers - Cover Band Website
 
 ## 1st Milestone Project 
 
