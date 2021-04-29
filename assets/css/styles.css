@@ -63,7 +63,6 @@ h3, {
 nav ul {
     font-size: 25px;
     letter-spacing: 10px;
-    color: slategray;
 }
 
 nav li {
@@ -86,7 +85,7 @@ nav li:hover {
 .button a  {
     color: white;
     text-decoration: none;
-    font-family: "poppins", Arial, Helvetica, sans-serif;  
+    font-family: "Montserrat", Arial, Helvetica, sans-serif;  
 }   
 
 .row-sm {
@@ -98,14 +97,15 @@ nav li:hover {
 }
 /* ------------------------- HEADER -----------------------------------------------*/
 header {
-    font-family: "poppins", Arial, Helvetica, sans-serif;
+    font-family: "Montserrat", Arial, Helvetica, sans-serif;
 }
 .header-left {
     text-align: left;
+    background-color: lightgray;
 }
 .header-right {
     text-align: right;
-
+    background-color: lightgray;
 }
 /* ------------------------ MAIN SECTION ----------------------------------*/
 
@@ -175,11 +175,10 @@ footer {
 }
 [class*="col"] {
     padding: 1rem;
-    border: 1px solid black;
 }
+
 [class*="con"] {
     border: none;
-    border: 1px solid black;
 }
 .content-large {
     padding: 0 0 35px 0;
