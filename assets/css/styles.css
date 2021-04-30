@@ -101,11 +101,11 @@ header {
 }
 .header-left {
     text-align: left;
-    background-color: lightgray;
+    background-color: rgb(237, 231, 230);
 }
 .header-right {
     text-align: right;
-    background-color: lightgray;
+    background-color: rgb(237, 231, 230);
 }
 /* ------------------------ MAIN SECTION ----------------------------------*/
 
@@ -137,7 +137,7 @@ li {
 /*-------------------------- FOOTER ----------------------------------------*/
 
 footer {
-    padding-top: 20px;
+    padding-top: 50px;
     letter-spacing: 2px;
     text-align: center;
     bottom: 10px;
@@ -221,6 +221,8 @@ footer {
 }
 .covers li {
     text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
 }
 /*-------------------------- MEDIA SIZES ---------------------------------------------*/
 
