@@ -243,11 +243,6 @@ main {
     transition-duration: 3s;
     word-spacing: 5px;
 }
-.navbar-brand img {
-    width: 30%;
-    height: auto;
-    margin-left: 5px;
-}
 .button {
     position: absolute;
     top: 700px;
@@ -287,7 +282,7 @@ main {
     word-spacing: 5px;
 }
 .navbar-brand img {
-    width: 40%;
+    width: 30%;
     height: auto;
     margin-left: 5px;
 }
@@ -333,16 +328,16 @@ main {
     color: #cc0033;;
     left: auto;
     top: -30px;
-    font-size: 35px;
+    font-size: 30px;
     transition-duration: 3s;
     word-spacing: 5px;
     position: relative;
     text-align: center;
 }
 .navbar-brand img {
-    width: 30%;
+    width: 40%;
     height: auto;
-    margin-left: 5px;
+    margin-left: -30px;
 }
 .button {
     position: relative;
@@ -368,5 +363,9 @@ main {
 }
 .p-left {
     text-align: justify;
+    font-size: 12px;
+}
+.p-right {
+    text-align: center;
 }
 }
