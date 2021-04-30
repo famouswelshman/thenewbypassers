@@ -140,7 +140,7 @@ footer {
     padding-top: 20px;
     letter-spacing: 2px;
     text-align: center;
-    bottom: 10;
+    bottom: 10px;
     position: relative;
     width:100%;
 }
@@ -216,7 +216,10 @@ footer {
     position: sticky;
 }
 
-.covers {
+.covers h2 {
+    text-align: center;
+}
+.covers li {
     text-align: center;
 }
 /*-------------------------- MEDIA SIZES ---------------------------------------------*/
@@ -228,7 +231,7 @@ footer {
     position: relative;
     bottom: 0;
     text-align: center;
-    padding: 200px;
+    padding: 50px;
 }
 main {
     text-align: center;
@@ -313,9 +316,6 @@ footer {
     position: relative;
     text-align: center;
 }
-body {
-    text-align: center;
-}
 h1,
 h2  {
     text-align: center;
@@ -361,11 +361,13 @@ main {
 .header-left {
     text-align: center;
 }
-.p-left {
-    text-align: justify;
-    font-size: 12px;
+.covers {
+    text-align: center;
 }
-.p-right {
+.col {
+    text-align: center;
+}
+.ul-right {
     text-align: center;
 }
 }
