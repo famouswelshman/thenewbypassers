@@ -21,4 +21,35 @@ The future aim of the site is to encourage returning visitors of the page to pur
 
 # Wireframes
 
+Wireframes for the project were created with Balsamic and have been saved to wireframes folder within the assets folder.
+
+The aim was to style each page consistently and keep the layout simple and clean. The designs created were very similar to the end product and being able to create these wireframes with balsamic allowed me to quickly move text and images around in order to find a balanced layout for each page.
+
 # Technology
+
+# Typography and color scheme
+
+# Technology
+
+# Testing
+
+1. Code Validation (W3 Validator)
+
+2. Bugs when running the website on Github link - https://famouswelshman.github.io/thenewbypassers/
+
+3. Supported screens and browsers
+
+# Deployment
+
+1. Via Gitpod
+
+2. Via Github pages
+
+# Credits
+1. Bootstrap - 
+
+2. Font Awesome - The use of Font Awesome Logos for social links and visual badges for some of the website information were used therefore credit to ‘Font Awesome’ for allowing links to their free library of icons.
+
+3. W3Schools
+
+4. Google Fonts
