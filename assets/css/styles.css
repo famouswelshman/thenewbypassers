@@ -13,7 +13,7 @@ body {
 
 h1 {
     color: #cc0033;
-    font-family: "monoton", arial;
+    font-family: "Monoton", arial;
 }
 
 h2 {
@@ -39,7 +39,7 @@ h3, {
 }
 
 .title {
-    font-family: "monoton", Arial;
+    font-family: "Monoton", Arial;
     position: relative;
     top: -600px;
     left: 120px;
@@ -238,7 +238,7 @@ main {
     text-align: center;
 }
 .title {
-    font-family: "monoton", Arial, Helvetica, sans-serif;
+    font-family: "Monoton", Arial, Helvetica, sans-serif;
     position: absolute;
     color: #cc0033;
     top: 310px;
@@ -325,8 +325,8 @@ main {
     text-align: center;
 }
 .title {
-    font-family: "monoton", Arial, Helvetica, sans-serif;
-    color: #cc0033;;
+    font-family: 'Monoton', Arial;
+    color: #cc0033;
     left: auto;
     top: -30px;
     font-size: 30px;
