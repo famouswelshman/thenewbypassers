@@ -331,18 +331,12 @@ main {
     font-size: 12px;
     padding: 25px;
 }
-.media-videos {
-    position: relative;
-    width: auto;
-    height: 25%;
-    display: inline-flex;
-}
 }
 
 /*------ MOBILE HANDSET SIZE ------------*/
 @media all and (max-width: 425px) {
 body {
-    margin:0;
+    margin: 0;
 }
 nav {
     margin: 5px;
