@@ -331,6 +331,12 @@ main {
     font-size: 12px;
     padding: 25px;
 }
+.header-right {
+    text-align: center;
+}
+.header-left {
+    text-align: center;
+}
 }
 
 /*------ MOBILE HANDSET SIZE ------------*/
