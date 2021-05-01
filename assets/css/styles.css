@@ -249,10 +249,11 @@ main {
 }
 .button {
     position: absolute;
-    top: 700px;
+    top: 500px;
     bottom: 0;
     left: 0;
     right: 0;
+    z-index: 99;
 }
 .social-links {
     padding: 15px;
