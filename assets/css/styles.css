@@ -114,6 +114,9 @@ a:link {
   a:active {
     color: blue;
   }
+  iframe {
+      text-align: center;
+  }
 /* ------------------------- HEADER -----------------------------------------------*/
 header {
     font-family: "Montserrat", Arial, Helvetica, sans-serif;
@@ -194,10 +197,12 @@ footer {
 }
 [class*="col"] {
     padding: 1rem;
+    background-color: aquamarine;
 }
 
 [class*="con"] {
     border: none;
+    background-color: chartreuse;
 }
 .content-large {
     padding: 0 0 35px 0;
@@ -337,6 +342,11 @@ main {
 .header-left {
     text-align: center;
 }
+iframe {
+    text-align: center;
+    width: 350px;
+    height: 200px;
+}
 }
 
 /*------ MOBILE HANDSET SIZE ------------*/
@@ -411,5 +421,10 @@ main {
 }
 .p-left {
     text-align: justify;
+}
+iframe {
+    text-align: center;
+    width: 350px;
+    height: 200px;
 }
 }
