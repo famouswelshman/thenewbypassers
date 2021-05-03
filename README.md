@@ -50,10 +50,18 @@ The aim was to style each page consistently and keep the layout simple and clean
 
 Bootstrap 5 code used for Navbar.
 
-2. Font Awesome - The use of Font Awesome Logos for social links and visual badges for some of the website information were used therefore credit to ‘Font Awesome’ for allowing links to their free library of icons.
+
+2. Font Awsome - (https://fontawesome.com)
+
+Font Awesome - The use of Font Awesome Logos for social links and visual badges for some of the website information were used therefore credit to ‘Font Awesome’ for allowing links to their free library of icons.
 
 3. W3Schools
 
 W3Schools – I searched online for a basic picture gallery source of code and therefore adopted and then adjusted some coding which was available via their website. This is a basic picture gallery which allowes the user to click on the smaller pictures that then show below and are viewed bigger in size. I limited the amount of photos available to under 10 so that there was enough room on the web page, in addittion to this, the decision to only include a small amount of pictures was made so that the focus was on the better photos which represented the band in it’s most profesional light.
 
 4. Google Fonts
+
+5. Formspree - (https://formspree.io/)
+
+In order for me to include a contact form witht the website I used a server link via Formspree. The process of setting up a PHP form and hosting this would have been a bit complex at this point therefore I have opted for a pre-made system that serves the purpose of directing enquiries to a designated email address via the website. I did however create my own form using a mix of CSS styling and specific fields so that I could capture the basic data to fulfill the contact form request.
+
