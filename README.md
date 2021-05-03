@@ -46,7 +46,9 @@ The aim was to style each page consistently and keep the layout simple and clean
 2. Via Github pages
 
 # Credits
-1. Bootstrap - 
+1. Bootstrap 
+
+Bootstrap 5 code used for Navbar.
 
 2. Font Awesome - The use of Font Awesome Logos for social links and visual badges for some of the website information were used therefore credit to ‘Font Awesome’ for allowing links to their free library of icons.
 
