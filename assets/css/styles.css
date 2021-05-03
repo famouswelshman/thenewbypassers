@@ -80,6 +80,7 @@ nav li:hover {
     left: 0;
     right: 0;
     text-align: center;
+    color: white;
 }
 .button a  {
     color: white;
@@ -102,12 +103,7 @@ a:link {
   
   /* visited link */
   a:visited {
-    color: purple;
-  }
-  
-  /* mouse over link */
-  a:hover {
-    color: rgb(150, 26, 57);
+    color: blue;
   }
   
   /* selected link */
@@ -248,6 +244,64 @@ footer {
     font-family: 'Montserrat', sans-serif;
     font-size: 14px;
 }
+/*--------------------------- PICTURE GALLERY ---------------------------------------*/
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    margin: 0;
+    font-family: Arial;
+  }
+  
+  /* The grid: Four equal columns that floats next to each other */
+  .column {
+    float: left;
+    width: 20%;
+    padding: 1px;
+  }
+  
+  /* Style the images inside the grid */
+  .column img {
+    opacity: 0.8; 
+    cursor: pointer; 
+  }
+  
+  .column img:hover {
+    opacity: 1;
+  }
+  
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  
+  /* The expanding image container */
+  .container {
+    position: relative;
+    display: none;
+  }
+  
+  /* Expanding image text */
+  #imgtext {
+    position: absolute;
+    bottom: 15px;
+    left: 15px;
+    color: white;
+    font-size: 20px;
+  }
+  
+  /* Closable button inside the expanded image */
+  .closebtn {
+    position: absolute;
+    top: 10px;
+    right: 15px;
+    color: white;
+    font-size: 35px;
+    cursor: pointer;
+  }
 /*-------------------------- MEDIA SIZES ---------------------------------------------*/
 
 /*------ LAPTOP SIZE ------------*/
