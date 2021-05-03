@@ -193,12 +193,10 @@ footer {
 }
 [class*="col"] {
     padding: 1rem;
-    background-color: aquamarine;
 }
 
 [class*="con"] {
     border: none;
-    background-color: chartreuse;
 }
 .content-large {
     padding: 0 0 35px 0;
@@ -245,17 +243,8 @@ footer {
     font-size: 14px;
 }
 /*--------------------------- PICTURE GALLERY ---------------------------------------*/
-* {
-    box-sizing: border-box;
-  }
-  
-  body {
-    margin: 0;
-    font-family: Arial;
-  }
-  
-  /* The grid: Four equal columns that floats next to each other */
-  .column {
+/* The grid: Four equal columns that floats next to each other */
+.column {
     float: left;
     width: 20%;
     padding: 1px;
