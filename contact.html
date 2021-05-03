@@ -45,17 +45,28 @@
 <main>
 
 
-    <form class="contact-form" action="contactform.php" method="POST">
+    
         
-        
-        <input type="text" name="name" placeholder="Full Name">
-        <input type="text" name="mail" placeholder="Your E-Mail">
-        <input type="text" name="subject" placeholder="Subject">
-        <textarea name="message" placeholder="Message"></textarea>
-        <button type="submit" name="submit">Send Mail</button>
+        <div class="container-sm">
+            
+            <div class="row">
+                <div class="col">
+
+                    <img src="assets/Images/Edited_Logo.jpg">
+
+                </div>
+                <div class="col-3">
+                    <form class="contact-form" action="https://formspree.io/f/xnqljbeo" method="POST">
+                    <input type="text" name="name" placeholder="Full Name">
+                    <input type="text" name="mail" placeholder="Your E-Mail">
+                    <input type="text" name="subject" placeholder="Subject">
+                    <textarea name="message" placeholder="Message"></textarea>
+                    <button type="submit" name="submit">Send Mail</button>
+               
+                    </div>
+                    </div>
    </form>
     
-
 
 </main>
 </body>
