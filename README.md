@@ -52,4 +52,6 @@ The aim was to style each page consistently and keep the layout simple and clean
 
 3. W3Schools
 
+W3Schools – I searched online for a basic picture gallery source of code and therefore adopted and then adjusted some coding which was available via their website. This is a basic picture gallery which allowes the user to click on the smaller pictures that then show below and are viewed bigger in size. I limited the amount of photos available to under 10 so that there was enough room on the web page, in addittion to this, the decision to only include a small amount of pictures was made so that the focus was on the better photos which represented the band in it’s most profesional light.
+
 4. Google Fonts
