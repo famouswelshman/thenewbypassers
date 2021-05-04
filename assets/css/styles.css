@@ -28,9 +28,6 @@ p{
     font-family: "Montserrat", sans-serif;
     text-align: left;
 }
-.p-right {
-
-}
 
 h1,
 h2,
@@ -48,17 +45,21 @@ h3, {
     transition-duration: 3s;
     word-spacing: 20px;
 }
-
+.title:hover {
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+    transition-duration: 5s;
+    }
 /* --------------------------- NAVBAR -----------------------------*/
 
-/*changes the logo (top left) */
+/*logo (top left) */
 .navbar-brand img {
     width: 50%;
     height: auto;
     margin-left: 5px;
 }
 
-/*changes the top-right menu links */
+/*top-right menu links */
 nav ul {
     font-size: 25px;
     letter-spacing: 10px;
@@ -116,9 +117,12 @@ a:link {
 
   /* ------------------ Styling specific to the Contact Form ------------------*/
   form {
-      background-color: lightgray;
+      background-color: rgb(128, 128, 128);
+      border-radius: 25px;
+      width: 90%;
+      padding: 10px;
   }
-  input[type=text], select, textarea {
+  input[type=text], select {
     width: 100%;
     padding: 10px;
     border: 1px solid #ccc;
@@ -127,6 +131,13 @@ a:link {
     margin-top: 6px;
     margin-bottom: 16px;
     resize: vertical;
+  }
+  textarea {
+    width: 100%;
+    padding: 10px;
+    border-radius: 25px;
+    box-sizing: border-box;
+    height: 150px;
   }
   
   input[type=submit] {
@@ -141,8 +152,9 @@ a:link {
   input[type=submit]:hover {
     background-color: #45a049;
   }
-  .logo {
-      padding-top: 50px;
+  .band-logo {
+      padding-top: 5px;
+      height: 85%;
   }
 /* ------------------------- HEADER -----------------------------------------------*/
 header {
@@ -333,7 +345,7 @@ main {
     font-family: "Monoton", Arial, Helvetica, sans-serif;
     position: absolute;
     color: #cc0033;
-    top: 310px;
+    top: 350px;
     left: 120px;
     font-size: 65px;
     transition-duration: 3s;
@@ -413,6 +425,10 @@ iframe {
     text-align: center;
     width: 350px;
     height: 200px;
+}
+.band-logo {
+    padding-top: 5px;
+    height: 55%;
 }
 }
 
@@ -494,4 +510,25 @@ iframe {
     width: 350px;
     height: 200px;
 }
+.band-logo {
+    padding-top: 5px;
+    height: 20%;
 }
+}
+
+/*----------- SMALLER HANDSET ---------------------*/
+
+@media all and (max-width: 425px) {
+
+.title {
+    font-family: monoton;
+    position: relative;
+    color: #cc0033;
+    top: 10px;
+    left: auto;
+    font-size: 35px;
+    transition-duration: 3s;
+    word-spacing: 5px;
+}
+}
+
