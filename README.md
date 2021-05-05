@@ -13,21 +13,22 @@ b)	If user wanted to find out more background about the band then they would nav
 The website features an interactive navbar to navigate the site with ease. Website will feature a media page allowing users to view videos linked from youtube and a gallery of pictures. A contact us form will be available to complete and by doing so will link to an email address in order to respond to any bookings and queries. The website will include a 'Book Us Now' button in order for the user to be directed to a booking link. 
 
 
-
 # Future features
 The future aim of the site is to encourage returning visitors of the page to purchase the band related merchandise such as T-shirts and Logo Stickers. Additional media material will be available for user to view such as videos and downloadable music tracks exclusive to the website.
 
 # Typography and color scheme
+I chose a very basic color scheme which is losely based on the kind of colours within the bands logo which is the color - #cc0033. I was able to specify this color by using photoshop to identify the pink color within the logo. The main theme throughout is very black and white with some greys. This conveys a sort of photographic feel to the site which is synonymous with the content being in relation to a rock band and performing and capturing that live feeling!
+
+I used several fonts from google fonts, the most stand out of these being the 'Monoton' font type. It's bold and colourful, again using the same shade of pink as per the band logo. I beleive this font type compliments the headings of sections where there is content, its a nice swirly font type which in turn compliments the other fonts included which are Montserrat and Satisfy which are used for more of the paragraph based text. I set the default font-family to sans serif in the event that the font types do not load.
+
 
 # Wireframes
-
 Wireframes for the project were created with Balsamic and have been saved to wireframes folder within the assets folder.
 
 The aim was to style each page consistently and keep the layout simple and clean. The designs created were very similar to the end product and being able to create these wireframes with balsamic allowed me to quickly move text and images around in order to find a balanced layout for each page.
 
 
 # Typography and color scheme
-
 I chose a very basic color scheme which is losely based on the kind of colours within the bands logo which is the color - #cc0033. I was able to specify this color by using photoshop to identify the pink color within the logo. The main theme throughout is very black and white with some greys. This conveys a sort of photographic feel to the site which is synonymous with the content being in relation to a rock band and performing and capturing that live feeling!
 
 I used several fonts from google fonts, the most stand out of these being the 'Monoton' font type. It's bold and colourful, again using the same shade of pink as per the band logo. I beleive this font type compliments the headings of sections where there is content, its a nice swirly font type which in turn compliments the other fonts included which are Montserrat and Satisfy which are used for more of the paragraph based text. I set the default font-family to sans serif in the event that the font types do not load.
@@ -36,7 +37,6 @@ I used several fonts from google fonts, the most stand out of these being the 'M
 
 
 # Testing
-
 1. Code Validation (W3 Validator)
 
 2. Bugs when running the website on Github link - https://famouswelshman.github.io/thenewbypassers/
@@ -46,9 +46,7 @@ I used several fonts from google fonts, the most stand out of these being the 'M
 
 
 
-
 # Deployment
-
 1. Via Gitpod
 
 2. Via Github pages
