@@ -156,7 +156,7 @@ a:link {
       padding-top: 5px;
       height: 85%;
   }
-  button {
+  .submit-button {
       background-color:#cc0033;
       opacity: 0.7;
       color: white;
