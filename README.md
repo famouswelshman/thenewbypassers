@@ -26,14 +26,6 @@ Wireframes for the project were created with Balsamic and have been saved to wir
 The aim was to style each page consistently and keep the layout simple and clean. The designs created were very similar to the end product and being able to create these wireframes with balsamic allowed me to quickly move text and images around in order to find a balanced layout for each page.
 
 
-
-
-# Technology
-
-
-
-
-
 # Typography and color scheme
 
 I chose a very basic color scheme which is losely based on the kind of colours within the bands logo which is the color - #cc0033. I was able to specify this color by using photoshop to identify the pink color within the logo. The main theme throughout is very black and white with some greys. This conveys a sort of photographic feel to the site which is synonymous with the content being in relation to a rock band and performing and capturing that live feeling!
