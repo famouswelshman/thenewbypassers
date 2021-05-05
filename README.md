@@ -15,7 +15,7 @@ The website features an interactive navbar to navigate the site with ease. Websi
 
 
 # Future features
-The future aim of the site is to encourage returning visitors of the page to purchase the band related merchandise such as T-shirts and Logo Stickers.
+The future aim of the site is to encourage returning visitors of the page to purchase the band related merchandise such as T-shirts and Logo Stickers. Additional media material will be available for user to view such as videos and downloadable music tracks exclusive to the website.
 
 # Typography and color scheme
 
@@ -25,7 +25,14 @@ Wireframes for the project were created with Balsamic and have been saved to wir
 
 The aim was to style each page consistently and keep the layout simple and clean. The designs created were very similar to the end product and being able to create these wireframes with balsamic allowed me to quickly move text and images around in order to find a balanced layout for each page.
 
+
+
+
 # Technology
+
+
+
+
 
 # Typography and color scheme
 
@@ -34,7 +41,7 @@ I chose a very basic color scheme which is losely based on the kind of colours w
 I used several fonts from google fonts, the most stand out of these being the 'Monoton' font type. It's bold and colourful, again using the same shade of pink as per the band logo. I beleive this font type compliments the headings of sections where there is content, its a nice swirly font type which in turn compliments the other fonts included which are Montserrat and Satisfy which are used for more of the paragraph based text. I set the default font-family to sans serif in the event that the font types do not load.
 
 
-# Technology
+
 
 # Testing
 
