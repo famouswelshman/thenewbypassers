@@ -163,7 +163,7 @@ a:link {
   }
 /* ------------------------- HEADER -----------------------------------------------*/
 header {
-    font-family: "Montserrat", Arial, Helvetica, sans-serif;
+    font-family: "Montserrat", sans-serif;
 }
 .header-left {
     text-align: left;
