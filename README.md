@@ -26,9 +26,15 @@ I used several fonts from google fonts, the most stand out of these being the 'M
 
 # Wireframes
 
-The aim was to style each page consistently and keep the layout simple and clean. The designs created were very similar to the end product and being able to create these wireframes with balsamic allowed me to quickly move text and images around in order to find a balanced layout for each page.
+The aim was to style each page consistently and keep the layout simple and clean. The designs created were very similar to the end product and being able to create these wireframes with balsamic allowed me to quickly move text and images around in order to find a balanced layout for each page. In order to create some continuity with design, I needed to create a template which incorporated desktop, tablet and mobile phone as per the images below.
 
-![alt text](https://famouswelshman.github.io/thenewbypassers/Wireframes/Index-Page.png "Index page Wireframe")
+![Index Page Design](https://famouswelshman.github.io/thenewbypassers/Wireframes/Index-Page.png "Index page Wireframe")
+
+![About Page Design](https://famouswelshman.github.io/thenewbypassers/Wireframes/About-Page.png "About page Wireframe")
+
+![Media Page Design](https://famouswelshman.github.io/thenewbypassers/Wireframes/Media-Page.png "Media page Wireframe")
+
+![Contact Page Design](https://famouswelshman.github.io/thenewbypassers/Wireframes/Contact-Page.png "Contact page Wireframe")
 
 # Testing
 1. Code Validation (W3 Validator)
