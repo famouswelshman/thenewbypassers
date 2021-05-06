@@ -121,7 +121,7 @@ a:link {
       width: 90%;
       padding: 10px;
   }
-  input[type=text], select {
+  input[type=text], input[type=email], select {
     width: 100%;
     padding: 10px;
     border: 1px solid #ccc;
@@ -131,6 +131,7 @@ a:link {
     margin-bottom: 16px;
     resize: vertical;
   }
+
   textarea {
     width: 100%;
     padding: 10px;
