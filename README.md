@@ -23,7 +23,7 @@ I used several fonts from google fonts, the most stand out of these being the 'M
 
 # Wireframes
 Wireframes for the project were created with Balsamic and have been saved to wireframes folder within the assets folder.
-![alt text](https://famouswelshman.github.io/thenewbypassers//Wireframes/Index Page.png "Index page Wireframe")
+![alt text](https://famouswelshman.github.io/thenewbypassers//Wireframes/Index-Page.png "Index page Wireframe")
 
 The aim was to style each page consistently and keep the layout simple and clean. The designs created were very similar to the end product and being able to create these wireframes with balsamic allowed me to quickly move text and images around in order to find a balanced layout for each page.
 
