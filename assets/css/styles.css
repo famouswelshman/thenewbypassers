@@ -152,8 +152,7 @@ a:link {
     background-color: #45a049;
   }
   .band-logo {
-      padding-top: 5px;
-      height: 85%;
+    
   }
   .submit-button {
       background-color:#cc0033;
@@ -372,12 +371,44 @@ main {
 }
 }
 /*------ TABLET SIZE ------------*/
-@media all and (max-width: 768px) {
+@media all and (max-width: 858px) {
+.title {
+    font-family: monoton;
+    position: relative;
+    color: #cc0033;
+    top: 10px;
+    left: auto;
+    font-size: 55px;
+    transition-duration: 3s;
+    word-spacing: 5px;
+}
+.button {
+    position: relative;
+    top: 150px;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: 99;
+}
 footer {
     position: relative;
     bottom: 0;
     text-align: center;
     padding: 100px;
+}
+}
+
+/*------ TABLET SIZE ------------*/
+@media all and (max-width: 768px) {
+body {
+    margin: 0;
+    width: 100%;
+}
+footer {
+    position: relative;
+    bottom: 0;
+    text-align: center;
+    padding: 10px;
 }
 main {
         text-align: center;
@@ -445,6 +476,7 @@ nav {
 footer {
     position: relative;
     text-align: center;
+    padding: 0;
 }
 h1,
 h2  {
@@ -522,6 +554,10 @@ iframe {
 
 @media all and (max-width: 320px) {
 
+body {
+    margin: 0;
+    width: 100%;
+}
 .title {
     font-family: monoton;
     position: relative;
@@ -531,6 +567,18 @@ iframe {
     font-size: 35px;
     transition-duration: 3s;
     word-spacing: 5px;
+}
+footer {
+    padding: 100px;
+    position: relative;
+}
+col {
+    height: 30px;
+}
+.button {
+    position: relative;
+    top: 150px;
+    z-index: 99;
 }
 }
 
