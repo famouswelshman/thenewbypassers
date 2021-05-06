@@ -11,9 +11,23 @@ b)	If user wanted to find out more background about the band then they would nav
 
 # Features
 
-- __Navigation Bar__
+## - __Navigation Bar__
+The website features an interactive navbar to navigate the site with ease. This navbar which is a product of the Bootstrap code will be present on all pages and will adapt to each resolution by compressing the vav content to a dropdown icon when shown on smaller devices.
 
-The website features an interactive navbar to navigate the site with ease. Website will feature a media page allowing users to view videos linked from youtube and a gallery of pictures. A contact us form will be available to complete and by doing so will link to an email address in order to respond to any bookings and queries. The website will include a 'Book Us Now' button in order for the user to be directed to a booking link. 
+## - __Book the band Button__
+The landing page features a prominent 'Book the band' button which gives the user the immediate facility to click on button to book if that is why the user has come directly to the website.
+
+## - __About Page Cover Song List__
+There is a breakdown of the type of music by artist which the band covers available on the About page which gives the viewer specific information about the type of music the band would cover giving the user further detail for suitbaility or personal taste.
+
+## - __Contact Form__
+This feature allows the user to send a basic enquiry via linked form which will be delivered to a designated mailbox. This facility is beneficial for users to send enquiries such as bookings or follow up enquiries to previous bookings.
+
+## - __Picture Gallery & Videos__
+The picture gallery and the embedded video links within the Media page showcase the bands look and sound which gives the viewer greater insight into the bands capability and look especially if the user is a first time visitor to the website.
+
+## - __Footer__
+The footer for the website is consistent across all pages and gives the user acces to click on a social media link external to the site and also clickable links within the wesbite.
 
 # Future features
 The future aim of the site is to encourage returning visitors of the page to purchase the band related merchandise such as T-shirts and Logo Stickers. Additional media material will be available for user to view such as videos and downloadable music tracks exclusive to the website.
@@ -28,12 +42,13 @@ I used several fonts from google fonts, the most stand out of these being the 'M
 
 The aim was to style each page consistently and keep the layout simple and clean. The designs created were very similar to the end product and being able to create these wireframes with balsamic allowed me to quickly move text and images around in order to find a balanced layout for each page. In order to create some continuity with design, I needed to create a template which incorporated desktop, tablet and mobile phone as per the images below.
 
+## 1. Index Page
 ![Index Page Design](https://famouswelshman.github.io/thenewbypassers/Wireframes/Index-Page.png "Index page Wireframe")
-
+## 2. About Page
 ![About Page Design](https://famouswelshman.github.io/thenewbypassers/Wireframes/About-Page.png "About page Wireframe")
-
+## 3. Media Page
 ![Media Page Design](https://famouswelshman.github.io/thenewbypassers/Wireframes/Media-Page.png "Media page Wireframe")
-
+## 4. Contact Page
 ![Contact Page Design](https://famouswelshman.github.io/thenewbypassers/Wireframes/Contact-Page.png "Contact page Wireframe")
 
 # Testing
