@@ -10,6 +10,9 @@ The purpose of this website is to host information and background about a rock a
 b)	If user wanted to find out more background about the band then they would navigate to the ‘About Us’ page via the navbar on top which takes them to a page with a slightly different layout to the home page but includes the navbar and social media links. The ‘About Us’ page has a breakdown of information with suitable titles which gives the viewer the option of reading and upon scrolling down, there is also additional information about the style of music that the band covers. The ‘Book Us Now’
 
 # Features
+
+- __Navigation Bar__
+
 The website features an interactive navbar to navigate the site with ease. Website will feature a media page allowing users to view videos linked from youtube and a gallery of pictures. A contact us form will be available to complete and by doing so will link to an email address in order to respond to any bookings and queries. The website will include a 'Book Us Now' button in order for the user to be directed to a booking link. 
 
 # Future features
