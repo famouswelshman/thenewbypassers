@@ -330,6 +330,9 @@ footer {
 /*--------------------------- PICTURE GALLERY ---------------------------------------*/
 
 
+/*--------THIS CODE IS CREDITED TO -----------------------*/
+
+
 /* The grid: Four equal columns that floats next to each other */
 
 .column {
@@ -607,10 +610,10 @@ footer {
     .p-left {
         text-align: justify;
     }
-    iframe {
+    .iframe {
         text-align: center;
-        width: 350px;
-        height: 200px;
+        width: 400px;
+        height: 100%;
     }
     .band-logo {
         padding-top: 5px;
