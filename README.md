@@ -68,12 +68,12 @@ The aim was to style each page consistently and keep the layout simple and clean
 
 # Testing
 1. Code Validation (W3 Validator)
-
+Although there were errors including size references in image tags not being accepted and some div tags remaining open, these were remedied and each html page shows no error with the W3 Validator.
 
 2. Bugs when running the website on Github link - https://famouswelshman.github.io/thenewbypassers/
+Button for ‘Book the Band’ was overlapping text on smaller screen devices which meant that I had to amend the position of the button and kept it relative so that it would move if the navbar dropdown was activated.
 
 3. Supported screens and browsers
-
 
 
 
