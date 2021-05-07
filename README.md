@@ -8,17 +8,20 @@
 The purpose of this website is to host information and background about a rock and roll covers band whilst advertising a service for users to book the band for private and commercial events. Users can view the band history and get information about what styles of music the band cover. The user can contact/book the band via a ‘contact form’ The website provides links to their social links such as facebook which details their gigs and the website will host media links to the bands videos, music and pictures.From a business perspective, this website will drive bookings and encourage new users to visit the site following a live show or word of mouth.
 
 # User stories
-As a first time user the home page has the band name and a black and white hero image depicting the band playing live which is essentially a purpose built design representing the bands strong features which is showing them play live.
-b)	If user wanted to find out more background about the band then they would navigate to the ‘About Us’ page via the navbar on top which takes them to a page with a slightly different layout to the home page but includes the navbar and social media links. The ‘About Us’ page has a breakdown of information with suitable titles which gives the viewer the option of reading and upon scrolling down, there is also additional information about the style of music that the band covers. The ‘Book Us Now’
+As a first time user the home page has the band name and a black and white hero image depicting the band playing live which is essentially a purpose built design representing the bands strong features which is showing them play live as a rock covers band.
+
+If user wanted to find out more background about the band then they would navigate to the ‘About Us’ page via the top navbar  which takes them to a page with a similar layout to the home page but displays some text details of content in relation to the band background and music that they cover.
+
+The landing page features a ‘Book the band’ button which is linked to the contact page, any user visiting the site might immediately use this feature since this is the reason for visiting. The user would be able to carry out the task of contacting the band by submitting a text input form for the purpose of sending an enquiry.
+
+If the user was casually browsing the website then they would be inclined to visit the media page for pictures and videos content which acts as a visual stimulant to the website and shows the band performing and showcases how they sound.
+There is one main social media link included on all pages at the footer part of page which allows the user to click and be taken to the band facebook page which allows the user to see further detail via this platform.
+
 
 # Features
 
-#### - __Navigation Bar__
-The website features an interactive navbar to navigate the site with ease. This navbar which is a product of the Bootstrap code will be present on all pages and will adapt to each resolution by compressing the vav content to a dropdown icon when shown on smaller devices.
-
 ### - __Book the band Button__
 The landing page features a prominent 'Book the band' button which gives the user the immediate facility to click on button to book if that is why the user has come directly to the website.
-
 ### - __About Page Cover Song List__
 There is a breakdown of the type of music by artist which the band covers available on the About page which gives the viewer specific information about the type of music the band would cover giving the user further detail for suitbaility or personal taste.
 
@@ -28,8 +31,18 @@ This feature allows the user to send a basic enquiry via linked form which will 
 ### - __Picture Gallery & Videos__
 The picture gallery and the embedded video links within the Media page showcase the bands look and sound which gives the viewer greater insight into the bands capability and look especially if the user is a first time visitor to the website.
 
-### - __Footer__
+
+
+
+
+# Exisiting Features
+
+#### - __Navigation Bar__
+The website features an interactive navbar to navigate the site with ease. This navbar which is a product of the Bootstrap code will be present on all pages and will adapt to each resolution by compressing the vav content to a dropdown icon when shown on smaller devices.
+
+### - __Footer and Social Media Links__
 The footer for the website is consistent across all pages and gives the user acces to click on a social media link external to the site and also clickable links within the wesbite.
+
 
 # Future features
 The future aim of the site is to encourage returning visitors of the page to purchase the band related merchandise such as T-shirts and Logo Stickers. Additional media material will be available for user to view such as videos and downloadable music tracks exclusive to the website.
@@ -40,7 +53,6 @@ I chose a very basic color scheme which is losely based on the kind of colours w
 I used several fonts from google fonts, the most stand out of these being the 'Monoton' font type which has been used for h1 & h2 text/titles. It's bold and elegant, again using the same shade of pink as per the band logo. 
 
 I believe this font type compliments the headings of sections where there is content, its a nice swirly font type which in turn compliments the other fonts included which are Montserrat and Satisfy which are used for more of the paragraph based text. I set the default font-family to sans serif in the event that the font types do not load.
-
 
 # Wireframes
 The aim was to style each page consistently and keep the layout simple and clean. The designs created were very similar to the end product and being able to create these wireframes with balsamic allowed me to quickly move text and images around in order to find a balanced layout for each page. In order to create some continuity with design, I needed to create a template which incorporated desktop, tablet and mobile phone as per the images below.
@@ -56,6 +68,7 @@ The aim was to style each page consistently and keep the layout simple and clean
 
 # Testing
 1. Code Validation (W3 Validator)
+
 
 2. Bugs when running the website on Github link - https://famouswelshman.github.io/thenewbypassers/
 
