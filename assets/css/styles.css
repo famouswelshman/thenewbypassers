@@ -333,7 +333,7 @@ footer {
 /*--------THIS CODE IS CREDITED TO -----------------------*/
 
 
-/* The grid: Four equal columns that floats next to each other */
+/* The grid: Five equal columns that floats next to each other */
 
 .column {
     float: left;
@@ -391,6 +391,10 @@ footer {
     color: white;
     font-size: 35px;
     cursor: pointer;
+}
+
+#expandedImg {
+    width: 100%;
 }
 
 
