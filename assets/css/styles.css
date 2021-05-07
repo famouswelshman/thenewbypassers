@@ -532,7 +532,7 @@ footer {
     }
     .band-logo {
         padding-top: 5px;
-        height: 55%;
+        height: 35%;
     }
 }
 
@@ -617,7 +617,7 @@ footer {
     }
     .band-logo {
         padding-top: 5px;
-        height: 40%;
+        height: 35%;
     }
 }
 
@@ -650,5 +650,9 @@ footer {
         position: relative;
         top: 150px;
         z-index: 99;
+    }
+    .band-logo {
+        padding-top: 5px;
+        width: 25%;
     }
 }
