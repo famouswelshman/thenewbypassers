@@ -10,6 +10,7 @@ The purpose of this website is to host information and background about a rock a
 # User stories
 As a first time user the home page has the band name and a black and white hero image depicting the band playing live which is essentially a purpose built design representing the bands strong features which is showing them play live as a rock covers band.
 
+
 If user wanted to find out more background about the band then they would navigate to the ‘About Us’ page via the top navbar  which takes them to a page with a similar layout to the home page but displays some text details of content in relation to the band background and music that they cover.
 
 The landing page features a ‘Book the band’ button which is linked to the contact page, any user visiting the site might immediately use this feature since this is the reason for visiting. The user would be able to carry out the task of contacting the band by submitting a text input form for the purpose of sending an enquiry.
