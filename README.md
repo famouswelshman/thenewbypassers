@@ -80,6 +80,7 @@ Button for ‘Book the Band’ was overlapping text on smaller screen devices wh
 
 The contact form was linked to a external website which provided a PHP service so that the form would direct traffic to a designated email address, I used my perosnal email address for this. The development of the contact form text input fields needed to include the 'required' tag so that the form required completion of the fields before submition, something at first glance that I had overlooked.
 
+When running the website on Github I had some issues with the social links font awesome icons being visible on smaller handsets. I tested this by viewing the website on mobile phones and tablets and it seems that there was an issue with the font awesome link which I managed to amend and update and the icons now appear across all media screens.
 
 3. Supported screens 
 The biggest task with this layout was ensuring that it was responsive and was viewable across all media platforms. My approach to the buidling of this site was focused on starting at desktop level and working down to the smaller screen sizes. In hindsight I would have started by focusing on the smaller screen resolutions as I believe this is where the most amount of attention is required to ensure that it works on smaller screens. Since the majority of websites are now viewed on mobile phones and/or tablets etc, in future my focus would be on the development and testing on smaller screens before completion of the larger screens such as desktop and laptops.
