@@ -22,6 +22,15 @@ There is one main social media link included on all pages at the footer part of 
 The contact form page is linked to the 'book the band' button hosted on the landing page as explained previously. The contact form enables the user to direct an enquiry which will be sent via a simple completed form, this feature might act as the main purpose for the user visiting the website hence the reason for adding this as a feature from the first page of the website.
 ![User story 4](https://famouswelshman.github.io/thenewbypassers/Wireframes/User-4.png "User story 4")
 
+# UX
+The simplicity of the website means that from a user perspective, the site delivers exactly what it says. It's a website which provides additional iniformation about a covers rock band and the images reinforce the pages since this is indicative of what the purpose of the website is. It's a rock and roll band, the inclusion of a contact form means any new user looking to make a booking enquiry can immediately do this and bypass the additional we pages if they so needed to. This fulfills their user journey very quickly and with ease of use without too many clicks.
+
+Anyone wanting to see or hear more from the band have the opportunity to visit the media page, again this is a matter of a click away giving the user a simple, quick experience and the media content is laid out in a structured way so the focus of use is firstly upon the embedded videos and then the picture gallery. My thought process for this was that the bulk of pictures can be found on social media sites externally where it is harder to push videos so hosting the videos first on this page would encourage them to view in the first instance.
+
+Overall I believe that the process of navigating this website makes for a user friendly experience. The navbar is simple and clear across all pages and the layout of color and fonts are consistent. With the subtle use of imagery and some icons, this keeps a clean layout and allows the user eyes to focus on the main content rather than be disstracted with a mass of content all on one page.
+
+I think the end result of visiting the website is that the user has gained some additional information about the band, they have viewed videos and pictures of the band that reinforce their profesionalism and they have had the opportunity to send an enquiry and be able to link to the bands social media site externally.
+
 # Features
 
 ### - __Book the band Button__
@@ -34,8 +43,6 @@ This feature allows the user to send a basic enquiry via linked form which will 
 
 ### - __Picture Gallery & Videos__
 The picture gallery and the embedded video links within the Media page showcase the bands look and sound which gives the viewer greater insight into the bands capability and look especially if the user is a first time visitor to the website.
-
-
 
 
 
@@ -90,7 +97,6 @@ When running the website on Github I had some issues with the social links font 
 The biggest task with this layout was ensuring that it was responsive and was viewable across all media platforms. My approach to the buidling of this site was focused on starting at desktop level and working down to the smaller screen sizes. In hindsight I would have started by focusing on the smaller screen resolutions as I believe this is where the most amount of attention is required to ensure that it works on smaller screens. Since the majority of websites are now viewed on mobile phones and/or tablets etc, in future my focus would be on the development and testing on smaller screens before completion of the larger screens such as desktop and laptops.
 
 The contact form was a challenge on smaller screens and although the back end code for this process was borrowed from an external source, the text input fields were built by myself and I had to ensure that the form sat correctly on each screen size without causing horizontal scroll or problems with being able to type in text into the fields. 
-
 
 
 # Deployment
