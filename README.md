@@ -67,14 +67,24 @@ The aim was to style each page consistently and keep the layout simple and clean
 ![Contact Page Design](https://famouswelshman.github.io/thenewbypassers/Wireframes/Contact-Page.png "Contact page Wireframe")
 
 # Testing
-1. Code Validation (W3 Validator)
+1. Code Validation (W3C Markup Validation Service)
 Although there were errors including size references in image tags not being accepted and some div tags remaining open, these were remedied and each html page shows no error with the W3 Validator.
+
+2. css validation (W3C CSS validator)
+The master css file was validated through the W3C CSS Validator with no errors showing. (Image below)
+![css validation page](https://famouswelshman.github.io/thenewbypassers/validation/css-jigsaw-result.png "css validation result")
 
 2. Bugs when running the website on Github link - https://famouswelshman.github.io/thenewbypassers/
 
 Button for ‘Book the Band’ was overlapping text on smaller screen devices which meant that I had to amend the position of the button and kept it relative so that it would move if the navbar dropdown was activated.
 
-3. Supported screens and browsers
+The contact form was linked to a external website which provided a PHP service so that the form would direct traffic to a designated email address, I used my perosnal email address for this. The development of the contact form text input fields needed to include the 'required' tag so that the form required completion of the fields before submition, something at first glance that I had overlooked.
+
+
+3. Supported screens 
+The biggest task with this layout was ensuring that it was responsive and was viewable across all media platforms. My approach to the buidling of this site was focused on starting at desktop level and working down to the smaller screen sizes. In hindsight I would have started by focusing on the smaller screen resolutions as I believe this is where the most amount of attention is required to ensure that it works on smaller screens. Since the majority of websites are now viewed on mobile phones and/or tablets etc, in future my focus would be on the development and testing on smaller screens before completion of the larger screens such as desktop and laptops.
+
+The contact form was a challenge on smaller screens and although the back end code for this process was borrowed from an external source, the text input fields were built by myself and I had to ensure that the form sat correctly on each screen size without causing horizontal scroll or problems with being able to type in text into the fields. 
 
 
 
