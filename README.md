@@ -8,16 +8,19 @@
 The purpose of this website is to host information and background about a rock and roll covers band whilst advertising a service for users to book the band for private and commercial events. Users can view the band history and get information about what styles of music the band cover. The user can contact/book the band via a ‘contact form’ The website provides links to their social links such as facebook which details their gigs and the website will host media links to the bands videos, music and pictures.From a business perspective, this website will drive bookings and encourage new users to visit the site following a live show or word of mouth.
 
 # User stories
-As a first time user the home page has the band name and a black and white hero image depicting the band playing live which is essentially a purpose built design representing the bands strong features which is showing them play live as a rock covers band.
-
+As a first time user the home page has the band name and a black and white hero image depicting the band playing live which is essentially a purpose built design representing the bands strong features which is showing them play live as a rock covers band. The landing page features a ‘Book the band’ button which is linked to the contact page, any user visiting the site might immediately use this feature since this is the reason for visiting. The user would be able to carry out the task of contacting the band by submitting a text input form for the purpose of sending an enquiry.
+![User story 1](https://famouswelshman.github.io/thenewbypassers/Wireframes/User-1.png "User story 1")
 
 If user wanted to find out more background about the band then they would navigate to the ‘About Us’ page via the top navbar  which takes them to a page with a similar layout to the home page but displays some text details of content in relation to the band background and music that they cover.
+![User story 2](https://famouswelshman.github.io/thenewbypassers/Wireframes/User-3.png "User story 2")
 
-The landing page features a ‘Book the band’ button which is linked to the contact page, any user visiting the site might immediately use this feature since this is the reason for visiting. The user would be able to carry out the task of contacting the band by submitting a text input form for the purpose of sending an enquiry.
 
 If the user was casually browsing the website then they would be inclined to visit the media page for pictures and videos content which acts as a visual stimulant to the website and shows the band performing and showcases how they sound.
 There is one main social media link included on all pages at the footer part of page which allows the user to click and be taken to the band facebook page which allows the user to see further detail via this platform.
+![User story 3](https://famouswelshman.github.io/thenewbypassers/Wireframes/User-2.png "User story 3")
 
+The contact form page is linked to the 'book the band' button hosted on the landing page as explained previously. The contact form enables the user to direct an enquiry which will be sent via a simple completed form, this feature might act as the main purpose for the user visiting the website hence the reason for adding this as a feature from the first page of the website.
+![User story 4](https://famouswelshman.github.io/thenewbypassers/Wireframes/User-4.png "User story 4")
 
 # Features
 
