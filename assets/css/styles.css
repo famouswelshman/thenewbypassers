@@ -12,6 +12,9 @@ body {
 
 /* --------------------- Global text Styles ---------------------------*/
 
+
+/* -------------- Font types below are from Google Fonts -------------*/
+
 h1 {
     color: #cc0033;
     font-family: "Monoton", sans-serif;
@@ -58,6 +61,9 @@ h3 {
 /* --------------------------- NAVBAR -----------------------------*/
 
 
+/*---------- Navbar code from Bootstrap 5 ------------------------*/
+
+
 /*logo (top left) */
 
 .navbar-brand img {
@@ -85,6 +91,9 @@ nav li:hover {
 
 
 /* ------------------------ COMPONENTS ------------------------------------*/
+
+
+/*-------- Button used was part of the Bootstrap 5 collection of buttons -----*/
 
 .button {
     position: absolute;
@@ -140,9 +149,11 @@ iframe {
 
 /* ------------------ Styling specific to the Contact Form ------------------*/
 
+
+/* -------- The code used below was copied from a picture gallery tutorial from (www.formspree.io)*/
+
 form {
     background-color: rgb(128, 128, 128);
-    border-radius: 25px;
     width: 90%;
     padding: 10px;
 }
@@ -153,7 +164,7 @@ select {
     width: 100%;
     padding: 10px;
     border: 1px solid #ccc;
-    border-radius: 25px;
+    border-radius: 25px 25px;
     box-sizing: border-box;
     margin-top: 6px;
     margin-bottom: 16px;
@@ -164,7 +175,6 @@ textarea {
     width: 100%;
     padding: 10px;
     border-radius: 25px;
-    box-sizing: border-box;
     height: 150px;
 }
 
@@ -233,6 +243,9 @@ li {
 
 /*-------------------------- FOOTER ----------------------------------------*/
 
+
+/* --------------- Social Links Icons supplied by (www.fontawesome.com)------*/
+
 footer {
     padding-top: 50px;
     letter-spacing: 2px;
@@ -259,13 +272,12 @@ footer {
 /* ------------------------ GRID ELEMENTS -----------------------------------*/
 
 .container {
-    width: 100vw;
-    height: 100vh;
+    width: 100%;
+    height: 100%;
     font-family: 'Advent Pro', sans-serif;
     font-weight: bold;
     font-size: 20px;
     display: grid;
-    grid-template: 100px 1fr 1fr 100px / repeat(3, 2fr);
     gap: 10px;
     padding: 10px;
     box-sizing: border-box;
@@ -292,7 +304,6 @@ footer {
     grid-row: 3;
     grid-row-start: 3;
     grid-row-end: span 1;
-    flex: auto;
     text-align: right;
 }
 
@@ -310,7 +321,7 @@ footer {
 }
 
 #content-wrap {
-    padding-bottom: 2.5rem;
+    padding-bottom: 2.5px;
     /* Footer height */
     color: white;
     position: sticky;
@@ -350,7 +361,7 @@ footer {
 }
 
 .column img:hover {
-    opacity: 1;
+    opacity: 2;
 }
 
 
@@ -420,7 +431,6 @@ footer {
         top: 350px;
         left: 120px;
         font-size: 65px;
-        transition-duration: 3s;
         word-spacing: 5px;
     }
     .button {
@@ -452,7 +462,6 @@ footer {
         top: 10px;
         left: auto;
         font-size: 55px;
-        transition-duration: 3s;
         word-spacing: 5px;
     }
     .button {
@@ -495,7 +504,6 @@ footer {
         top: 10px;
         left: auto;
         font-size: 55px;
-        transition-duration: 3s;
         word-spacing: 5px;
     }
     .navbar-brand img {
@@ -568,7 +576,6 @@ footer {
         left: auto;
         top: -10px;
         font-size: 50px;
-        transition-duration: 3s;
         word-spacing: 5px;
         position: relative;
         text-align: center;
@@ -584,7 +591,6 @@ footer {
         z-index: 99;
     }
     .social-links {
-        display: inline-flex;
         text-align: center;
     }
     .social-links li {
@@ -628,7 +634,7 @@ footer {
 
 /*----------- SMALLER HANDSET ---------------------*/
 
-@media all and (max-width: 320px) {
+@media screen and (max-width: 375px) {
     body {
         margin: 0;
         width: 100%;
@@ -640,7 +646,6 @@ footer {
         top: 10px;
         left: auto;
         font-size: 35px;
-        transition-duration: 3s;
         word-spacing: 5px;
     }
     footer {
